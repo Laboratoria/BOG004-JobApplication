@@ -24,7 +24,7 @@
         <li>Readme del proyecto (Slido)</li>
       </ul>
     </td>
-    <td>1 de marzo</td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td rowspan="3"><b>Preparación para CV + LinkedIn + Entrevista RRHH</b></td>
