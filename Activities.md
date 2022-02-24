@@ -90,7 +90,7 @@
     <td rowspan="5"><b>Mentoría RRHH y mock interview</b></td>
     <td>11 de abril</td>
     <td>
-      <b>Kickoff / Meet and Greet:</b><br />
+      <b>Meet and Greet:</b><br />
       Tendrás vínculo con dos persona de la industria
       que te acompañarán en tu preparación para las etapas de Recursos Humanos /
       fit cultural en procesos de selección.
@@ -103,7 +103,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Hasta el 18 de abril</td>
+    <td>11 de abril</td>
     <td>
       <b>Sesión revisión y feedback CV<b><br />
       En la primera sesión revisarán tu CV y
