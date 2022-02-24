@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Kickoff</b></td>
-    <td></td>
+    <td>15 de marzo</td>
     <td>
       <b>Kickoff:</b>
       <br />
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td rowspan="3"><b>Preparación para CV + LinkedIn + Entrevista RRHH</b></td>
-    <td></td>
+    <td>22 de marzo</td>
     <td>
       <b>Autoconocimiento:</b>
       <br />
@@ -48,7 +48,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Hasta el 4 de abril</td>
     <td>
       <b>Preparación CV + Linkedin:</b><br />
       Trabajarás en una primera versión de tu hoja de
@@ -72,7 +72,7 @@
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td>Entre el 11 y 22 de abril</td>
     <td>
       <b>Preparación entrevista RRHH:</b><br />
       Tendrás un simulacro grupal de entrevista de
@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td rowspan="5"><b>Mentoría RRHH y mock interview</b></td>
-    <td></td>
+    <td>11 de abril</td>
     <td>
       <b>Kickoff / Meet and Greet:</b><br />
       Tendrás vínculo con dos persona de la industria
@@ -103,7 +103,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Hasta el 18 de abril</td>
     <td>
       <b>Sesión revisión y feedback CV<b><br />
       En la primera sesión revisarán tu CV y
@@ -114,7 +114,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Hasta el 25 de abril</td>
     <td>
       <b>Sesión revisión y feedback Linkedin<b><br />
       En la segunda sesión revisarán tu
@@ -125,7 +125,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Hasta el 2 de mayo</td>
     <td>
       <b>Mock RRHH interview:<b><br />
       Este espacio lo tendrás con otra persona que revisará
@@ -148,7 +148,7 @@
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td>10 de mayo</td>
     <td>
       <b>Retrospectiva grupal de mock HR interviews:</b><br />
       Tendremos un espacio con toda
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td></td>
+    <td>Entre el 25 de abril y el 2 de mayo</td>
     <td>
       <b>Mock mock tech interview grupal - Sesiones 1 y 2</b><br />
       Tendremos dos espacios de
@@ -180,7 +180,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Hasta el 16 de mayo</td>
     <td>
       <b>Preparación perfil Github:<b><br />
       Prepararás tu perfil de GitHub para que sea más
@@ -200,7 +200,7 @@
   </tr>
   <tr>
     <td rowspan="3"><b>Tech mock interview + revision perfil Github</b></td>
-    <td></td>
+    <td>17 de mayo</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b><br />
       Te compartiremos cómo serán los simulacros de
@@ -216,7 +216,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Entre el 23 de mayo y el 3 de junio</td>
     <td>
       <b>Mock tech interview</b><br />
       Este espacio lo tendrás con una persona de la
@@ -240,7 +240,7 @@
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td>7 de junio</td>
     <td>
       <b>Retrospectiva grupal de mock tech interviews:</b><br />
       Tendremos un espacio con toda
