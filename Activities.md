@@ -20,8 +20,9 @@
     <td>
       <ul>
         <li>Readme del proyecto</li>
-        <li>Pildora: Cómo funciona un proceso de selección Q&A</li>
-        <li>Readme del proyecto (Slido)</li>
+<li>
+   <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf">Pildora: Cómo funciona un proceso de selección Q&A</a>
+</li>        <li>Readme del proyecto (Slido)</li>
       </ul>
     </td>
     <td>N/A</td>
