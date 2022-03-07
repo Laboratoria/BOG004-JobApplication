@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>15 de marzo</td>
     <td>
       <b>Kick off</b>
       <p>
@@ -33,7 +33,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>22 de marzo</td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -54,7 +54,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Hasta el 4 de abril</td>
     <td>
       <b>Preparación de CV y Linkedin</b>
       <p>
@@ -78,7 +78,7 @@
     <td>Primera versión del CV + LinkedIn</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Entre el 4 y 13 de abril</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -95,7 +95,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>4 de abril</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -117,7 +117,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>11 de abril</td>
     <td>
       <b>Meet and greet + sesión revisión y feedback CV</b>
       <p>
@@ -137,7 +137,7 @@
     <td>Segunda versión del CV con recomendaciones incorporadas.</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Hasta el 18 de abril</td>
     <td>
       <b>Sesión revisión y feedback LinkedIn</b>
       <p>
@@ -151,7 +151,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Hasta el 25 de abril</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -181,7 +181,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>17 de mayo</td>
     <td>
       <b>Retrospectiva grupal de simulación de entrevista RH</b>
       <p>
@@ -194,7 +194,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Entre el 9 y el 20 de mayo</td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -213,7 +213,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Hasta el 9 de mayo</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -235,7 +235,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>10 de mayo</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -251,7 +251,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Entre el 23 de mayo y el 3 de junio</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
@@ -286,7 +286,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>7 de junio</td>
     <td>
       <b>Retrospectiva grupal de simulación de entrevista Tech</b>
       <p>
@@ -300,7 +300,7 @@
   </tr>
   <tr>
     <td><b>Project Feedback</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Entre el 6 y el 17 de junio</td>
     <td>
       <b>Project Feedback:</b>
       <p>
