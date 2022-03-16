@@ -75,7 +75,7 @@
         <li><a href="https://app.sli.do/event/n1FYKFzbvXYG9pzuyzqbf9">Q&A externxs / placement sobre CV+LinkedIn.<a/></li>
       </ul>
     </td>
-    <td>Primera versión del CV + LinkedIn</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1TaU5WyvZycpSzeD8cfGkqF-NSOG5N1OmTcdxpdgAksE/edit#gid=578274308">Primera versión del CV + LinkedIn<a/></td>
   </tr>
   <tr>
     <td>Entre el 4 y 13 de abril</td>
@@ -106,7 +106,7 @@
     </td>
     <td>
       <ul>
-        <li>Q&A Readme del proyecto (Slido)</li>
+        <li><a href="https://app.sli.do/event/vZc9jY6NNzLHP6Jp3izz81">Q&A Readme del proyecto (Slido)<a/></li>
       </ul>
     </td>
     <td>NA</td>
