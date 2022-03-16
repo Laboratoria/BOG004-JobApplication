@@ -20,9 +20,9 @@
     </td>
     <td>
       <ul>
-        <li>Readme del proyecto</li>
-        <li>Pildora: Cómo funciona un proceso de selección</li>
-        <li>Q&A Readme del proyecto (Slido)</li>
+        <li><a href="https://github.com/Laboratoria/BOG004-JobApplication">Readme del proyecto</a></li>
+        <li><a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf">Pildora:Cómo funciona un proceso de selección<a/></li>
+        <li><a href="https://app.sli.do/event/g21hg7aAGXFBt96WTq8Y38/live/questions">Q&A Readme del proyecto (Slido)<a/></li>
       </ul>
     </td>
     <td>NA</td>
@@ -46,9 +46,9 @@
     </td>
     <td>
       <ul>
-        <li>Taller: Historia de vida y habilidades transferibles.</li>
-        <li>Píldora: About me y pitch.</li>
-        <li>Espacio grupal para compartir “about me” y dar y recibir feedback.</li>
+        <li><a href="https://docs.google.com/presentation/d/1TMtFl2x1RsezD3xpuz96N6OnWtAVYE57q9018INpYp4/edit#slide=id.g108f9f34ebd_0_0">Taller: Historia de vida y habilidades transferibles<a/></li>
+        <li><a href="https://docs.google.com/presentation/d/1hSKYklZ4s_QuGqaLkLwqoAFMJKCBGnxOfgowj1iVkVk/edit#slide=id.g10f517c8353_0_300">Píldora: About me y pitch<a/></li>
+        <li><a href="https://docs.google.com/presentation/d/14o_KciNBxwwFqjpqsdggg7skJ3IxLbOOSDqyKt47ieE/edit#slide=id.geb0fdc64a4_2_38">Espacio grupal para compartir “about me” y dar y recibir feedback<a/></li>
       </ul>
     </td>
     <td>NA</td>
@@ -68,11 +68,11 @@
     </td>
     <td>
       <ul>
-        <li>Pildora: CV en la industria tech.</li>
-        <li>Pildora: Funcionamiento de Linkedin</li>
-        <li>Píldora: Recomendaciones para la foto.</li>
-        <li>Ayudantías con el equipo (opcionales).</li>
-        <li>Q&A externxs / placement.</li>
+        <li><a href="https://www.loom.com/share/b682c1f7b7964641a5fe1b8acfcf4b8e">Pildora: CV en la industria tech<a/></li>
+        <li><a href="https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b">Pildora: Funcionamiento de Linkedin<a/></li>
+        <li><a href="https://www.loom.com/share/cb019555280444ada9dacab2810fefdb">Píldora: Recomendaciones para la foto.<a/></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1TaU5WyvZycpSzeD8cfGkqF-NSOG5N1OmTcdxpdgAksE/edit#gid=594656171">Ayudantías con el equipo (opcionales)<a/></li>
+        <li><a href="https://app.sli.do/event/n1FYKFzbvXYG9pzuyzqbf9">Q&A externxs / placement sobre CV+LinkedIn.<a/></li>
       </ul>
     </td>
     <td>Primera versión del CV + LinkedIn</td>
@@ -88,8 +88,8 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Tips y buenas prácticas entrevista RRHH.</li>
-        <li>Píldora: Negociación salario y condiciones laborales.</li>
+        <li><a href="https://www.youtube.com/watch?v=HjOUpKgbdIM">Píldora: Tips y buenas prácticas entrevista RRHH<a/></li>
+        <li><a href="https://www.loom.com/share/082a12d5a30a4f9bb1afd951ccba0b39">Píldora: Negociación salario y condiciones laborales<a/></li>
       </ul>
     </td>
     <td>NA</td>
