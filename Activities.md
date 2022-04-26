@@ -164,8 +164,7 @@
       <ul>
         <li>Guía sesiones de mentoría (apartado en el read me).</li>
         <li>
-          Form autoevaluación estudiante y evaluación a la persona que te
-          entrevistó.
+          <a href=https://forms.gle/Gvv3RWCmQNiUudB18>Autoevaluación de performance en entrevista + CV + Linkedin.<a/>
         </li>
       </ul>
     </td>
@@ -175,7 +174,8 @@
           Feedback de entrevistadora/or sobre performance en
           entrevista + CV + Linkedin.
         </li>
-        <li>Autoevaluación de performance en entrevista + CV + Linkedin.</li>
+        <li>Form autoevaluación estudiante y evaluación a la persona que te
+          entrevistó.</li>
         <li>Versión de CV + perfil de LinkedIn</li>
       </ul>
     </td>
@@ -223,7 +223,7 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Perfil de Github para la búsqueda de empleo.</li>
+        <li><a href=https://www.youtube.com/watch?v=vQ_EBqgUR0c>Píldora: Perfil de Github para la búsqueda de empleo.<a/></li>
         <li>Ayudantías para ver perfil de Github (opcionales).</li>
       </ul>
     </td>
