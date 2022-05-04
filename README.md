@@ -6,7 +6,8 @@
 - [2. Objetivos de aprendizaje](#2-objetivos-de-aprendizaje)
 - [3. Entregables](#3-entregables)
 - [4. Resumen del proyecto](#4-resumen-del-proyecto)
-- [5. Consideraciones generales](#5-consideraciones-generales)
+- [5. Mentorías de personas externas a Laboratoria](#5-mentorías-de-personas-externas-a-laboratoria)
+- [6. Consideraciones generales](#6-consideraciones-generales)
 
 ---
 
@@ -27,7 +28,7 @@ compartimos mutuamente) es importante que te prepares para los procesos de
 selección en los que participarás  una vez que termine el bootcamp.
 
 Sabemos que hablar de búsqueda de empleo a estas alturas puede dar nervios,
-ansiedad, expectativas etc .. pero no te preocupes, empezamos a hablar del tema
+ansiedad, expectativas etc... pero no te preocupes, empezamos a hablar del tema
 para que te prepares y para acompañarte de la mejor forma en esta preparación.
 
 Si bien el objetivo del Bootcamp es prepararte para trabajar, dado el desfase
@@ -99,7 +100,18 @@ contarás y los entregables de cada momento.
 
 ### [Actividades](./Activities.md)
 
-## 5. Consideraciones generales
+## 5. Mentorías de personas externas a Laboratoria
+
+Como habrás visto durante el avance del proyecto tendrás contacto con personas
+voluntarias y con experiencia en la industria TI que quieren acompañar tu
+experiencia de preparación para los procesos de selección a través de mentorías.
+
+Para que tengas claro las diferencias entre los temas y los tipos de
+acompañamiento te dejamos la siguiente guía para las sesiones de mentorías.
+
+### [Guía para las sesiones de mentorías](./Mentoring.md)
+
+## 6. Consideraciones generales
 
 - Este es un proyecto individual que irás avanzando en paralelo a los otros
   proyectos del Bootcamp. Te recomendamos planear espacio para avanzar cada
@@ -109,7 +121,7 @@ contarás y los entregables de cada momento.
   ejemplo 2 horas del viernes) para avanzar en este proyecto.
 - Como podrás ver tiene algunas cosas diferentes a los otros proyectos del
   bootcamp, en este tendremos etapas y un calendario con algunas fechas pre
-  establecidas.También hay algunas cosas muy parecidas a los otros proyectos del
+  establecidas. También hay algunas cosas muy parecidas a los otros proyectos del
   bootcamp, tienes una serie de recursos que puedes consultar como guía, podrás
   pedir ayudantías y feedback a lo largo del avance del proyecto.
 - Tendrás vínculo con personas externas que se unen al bootcamp para apoyar tu
