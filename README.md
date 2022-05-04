@@ -109,7 +109,7 @@ experiencia de preparación para los procesos de selección a través de mentor�
 Para que tengas claro las diferencias entre los temas y los tipos de
 acompañamiento te dejamos la siguiente guía para las sesiones de mentorías.
 
-### [Guía para las sesiones de mentorías](./Mentoring.md)
+### [Guía para las sesiones de mentorías](./mentoring.md)
 
 ## 6. Consideraciones generales
 
